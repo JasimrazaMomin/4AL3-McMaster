@@ -1,0 +1,7 @@
+final/
+env/
+Assignment-4/data/
+traffic_data.parquet
+other-files/
+Assignment-4/*.png
+random_forest_checkpoint.pkl
