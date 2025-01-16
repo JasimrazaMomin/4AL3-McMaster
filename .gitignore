@@ -5,3 +5,4 @@ traffic_data.parquet
 other-files/
 Assignment-4/*.png
 random_forest_checkpoint.pkl
+.DS_Store
